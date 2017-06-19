@@ -2,7 +2,7 @@
 
 Flux(ible) data flow for PHP apps.
 
-<img src="https://media.giphy.com/media/C6Vy7zS5ERdHG/giphy.gif" title="Flux Capacitor" alt="title="Flux Capacitor"" width="200">
+<img src="https://media.giphy.com/media/C6Vy7zS5ERdHG/giphy.gif" title="Flux Capacitor" alt="Flux Capacitor" width="200">
 
 [![Build Status](https://travis-ci.org/robinvdvleuten/capacitor.svg?branch=master)](https://travis-ci.org/robinvdvleuten/capacitor)
 
